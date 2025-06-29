@@ -26,7 +26,7 @@ nlp_model = None
 matcher_model = None
 
 # Default model configuration
-DEFAULT_MODEL_URL = "https://github.com/alamgirkabir9/Medical-Text-NER-Keyword-Matcher/archive/refs/heads/main.zip"
+DEFAULT_MODEL_URL = "https://github.com/alamgirkabir9/Medical-Text-NER-Keyword-Matcher/archive/658394a082ad4461d24de62164c08a78136fcdf1.zip"
 DEFAULT_MODEL_PATH = "saved_model_with_patterns"
 
 def download_and_extract_model(github_url, extract_path="model_temp"):
