@@ -1,0 +1,8 @@
+Flask
+spacy
+requests
+PyMuPDF
+beautifulsoup4
+pandas
+Werkzeug
+gunicorn
